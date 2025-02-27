@@ -96,7 +96,10 @@ The Weather App allows users to enter a city name and view weather information. 
 This project is licensed under the MIT License.
 
 ## Contributors
-- **Your Name** - Developer
+- **Tran Minh Khang** - Developer
+- **Nguyen Trong Duc** - User Interface
+- **Huynh Bao Dien** - API, Developer
+- **Ca Diep Thanh Binh** - Logic, Developer
 
 ## Contact
 For any inquiries, contact kasick.0404@gmail.com.
