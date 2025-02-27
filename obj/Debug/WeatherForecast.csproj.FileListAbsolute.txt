@@ -1,0 +1,490 @@
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\WeatherForecast.exe.config
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\WeatherForecast.exe
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\WeatherForecast.pdb
+C:\Users\Oguzhan\Desktop\WeatherForecast\obj\Debug\WeatherForecast.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\WeatherForecast\obj\Debug\WeatherForecast.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\WeatherForecast\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\WeatherForecast\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\WeatherForecast\obj\Debug\WeatherForecast.exe
+C:\Users\Oguzhan\Desktop\WeatherForecast\obj\Debug\WeatherForecast.pdb
+C:\Users\Oguzhan\Desktop\WeatherForecast\obj\Debug\WeatherForecast.Form1.resources
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\RestSharp.dll
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\System.Buffers.dll
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\System.Memory.dll
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\System.Text.Json.dll
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\System.ValueTuple.dll
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\RestSharp.xml
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\System.Buffers.xml
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\System.Memory.xml
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\System.Text.Json.xml
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\System.ValueTuple.xml
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oguzhan\Desktop\WeatherForecast\bin\Debug\Newtonsoft.Json.xml
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\WeatherForecast.exe.config
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\WeatherForecast.exe
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\WeatherForecast.pdb
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\Newtonsoft.Json.dll
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\RestSharp.dll
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\System.Buffers.dll
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\System.Memory.dll
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.dll
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.dll
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\System.Text.Json.dll
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\System.ValueTuple.dll
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\Newtonsoft.Json.xml
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\RestSharp.xml
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\System.Buffers.xml
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\System.Memory.xml
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.xml
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.xml
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\System.Text.Json.xml
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Study\WeatherForecast-main\WeatherForecast-main\bin\Debug\System.ValueTuple.xml
+D:\Study\WeatherForecast-main\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.AssemblyReference.cache
+D:\Study\WeatherForecast-main\WeatherForecast-main\obj\Debug\WeatherForecast.Form1.resources
+D:\Study\WeatherForecast-main\WeatherForecast-main\obj\Debug\WeatherForecast.Properties.Resources.resources
+D:\Study\WeatherForecast-main\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
+D:\Study\WeatherForecast-main\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+D:\Study\WeatherForecast-main\WeatherForecast-main\obj\Debug\WeatherF.C49A1D7B.Up2Date
+D:\Study\WeatherForecast-main\WeatherForecast-main\obj\Debug\WeatherForecast.exe
+D:\Study\WeatherForecast-main\WeatherForecast-main\obj\Debug\WeatherForecast.pdb
+S:\WeatherForecast-main\bin\Debug\WeatherForecast.exe.config
+S:\WeatherForecast-main\bin\Debug\WeatherForecast.exe
+S:\WeatherForecast-main\bin\Debug\WeatherForecast.pdb
+S:\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+S:\WeatherForecast-main\bin\Debug\Newtonsoft.Json.dll
+S:\WeatherForecast-main\bin\Debug\RestSharp.dll
+S:\WeatherForecast-main\bin\Debug\System.Buffers.dll
+S:\WeatherForecast-main\bin\Debug\System.Memory.dll
+S:\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.dll
+S:\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+S:\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.dll
+S:\WeatherForecast-main\bin\Debug\System.Text.Json.dll
+S:\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+S:\WeatherForecast-main\bin\Debug\System.ValueTuple.dll
+S:\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+S:\WeatherForecast-main\bin\Debug\Newtonsoft.Json.xml
+S:\WeatherForecast-main\bin\Debug\RestSharp.xml
+S:\WeatherForecast-main\bin\Debug\System.Buffers.xml
+S:\WeatherForecast-main\bin\Debug\System.Memory.xml
+S:\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.xml
+S:\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+S:\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.xml
+S:\WeatherForecast-main\bin\Debug\System.Text.Json.xml
+S:\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+S:\WeatherForecast-main\bin\Debug\System.ValueTuple.xml
+S:\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.AssemblyReference.cache
+S:\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.SuggestedBindingRedirects.cache
+S:\WeatherForecast-main\obj\Debug\WeatherForecast.Form1.resources
+S:\WeatherForecast-main\obj\Debug\WeatherForecast.Properties.Resources.resources
+S:\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
+S:\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+S:\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.CopyComplete
+S:\WeatherForecast-main\obj\Debug\WeatherForecast.exe
+S:\WeatherForecast-main\obj\Debug\WeatherForecast.pdb
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\WeatherForecast.exe.config
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\WeatherForecast.exe
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\WeatherForecast.pdb
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\Newtonsoft.Json.dll
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\RestSharp.dll
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\System.Buffers.dll
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\System.Memory.dll
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.dll
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.dll
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\System.Text.Json.dll
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\System.ValueTuple.dll
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\Newtonsoft.Json.xml
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\RestSharp.xml
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\System.Buffers.xml
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\System.Memory.xml
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.xml
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.xml
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\System.Text.Json.xml
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Study\Lap trinh giao dien\WeatherForecast-main\bin\Debug\System.ValueTuple.xml
+D:\Study\Lap trinh giao dien\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.AssemblyReference.cache
+D:\Study\Lap trinh giao dien\WeatherForecast-main\obj\Debug\WeatherForecast.Form1.resources
+D:\Study\Lap trinh giao dien\WeatherForecast-main\obj\Debug\WeatherForecast.Properties.Resources.resources
+D:\Study\Lap trinh giao dien\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
+D:\Study\Lap trinh giao dien\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+D:\Study\Lap trinh giao dien\WeatherForecast-main\obj\Debug\WeatherF.C49A1D7B.Up2Date
+D:\Study\Lap trinh giao dien\WeatherForecast-main\obj\Debug\WeatherForecast.exe
+D:\Study\Lap trinh giao dien\WeatherForecast-main\obj\Debug\WeatherForecast.pdb
+D:\Study\Lap trinh giao dien\WeatherForecast-main\obj\Debug\WeatherForecast.Form2.resources
+D:\Study\Lap trinh giao dien\WeatherForecast-main\obj\Debug\WeatherForecast.Form3.resources
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\WeatherForecast.exe.config
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\WeatherForecast.exe
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\WeatherForecast.pdb
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\Newtonsoft.Json.dll
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\RestSharp.dll
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Buffers.dll
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Memory.dll
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.dll
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.dll
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Text.Json.dll
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.ValueTuple.dll
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\Newtonsoft.Json.xml
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\RestSharp.xml
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Buffers.xml
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Memory.xml
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.xml
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.xml
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Text.Json.xml
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.ValueTuple.xml
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.AssemblyReference.cache
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.Form1.resources
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.Form2.resources
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.Form3.resources
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.Properties.Resources.resources
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherF.C49A1D7B.Up2Date
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.exe
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.pdb
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\GenerativeAI.dll
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.ComponentModel.Annotations.dll
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\bin\Debug\GenerativeAI.xml
+D:\C#Winform\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.Form4.resources
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\WeatherForecast.exe.config
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\WeatherForecast.exe
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\WeatherForecast.pdb
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\GenerativeAI.dll
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\Newtonsoft.Json.dll
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\RestSharp.dll
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Buffers.dll
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Memory.dll
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.dll
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.dll
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Text.Json.dll
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.ValueTuple.dll
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\GenerativeAI.xml
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\Newtonsoft.Json.xml
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\RestSharp.xml
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Buffers.xml
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Memory.xml
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.xml
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.xml
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Text.Json.xml
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\bin\Debug\System.ValueTuple.xml
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.AssemblyReference.cache
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.Form1.resources
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.Form2.resources
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.Form3.resources
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.Form4.resources
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.Properties.Resources.resources
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherF.C49A1D7B.Up2Date
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.exe
+D:\Study\WeatherForecast_V3\WeatherForecast_V3\WeatherForecast-main\obj\Debug\WeatherForecast.pdb
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.AssemblyReference.cache
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.Form1.resources
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.Form2.resources
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.Form3.resources
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.Form4.resources
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.Properties.Resources.resources
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.exe
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.pdb
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\WeatherForecast.exe.config
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\WeatherForecast.exe
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\WeatherForecast.pdb
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\GenerativeAI.dll
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\Newtonsoft.Json.dll
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\RestSharp.dll
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Buffers.dll
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Memory.dll
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.dll
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.dll
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Text.Json.dll
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.ValueTuple.dll
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\GenerativeAI.xml
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\Newtonsoft.Json.xml
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\RestSharp.xml
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Buffers.xml
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Memory.xml
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.xml
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.xml
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Text.Json.xml
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.ValueTuple.xml
+D:\Lập trình Giao Diện\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherF.C49A1D7B.Up2Date
+D:\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.AssemblyReference.cache
+D:\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.exe
+D:\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.pdb
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\WeatherForecast.exe.config
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\WeatherForecast.exe
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\WeatherForecast.pdb
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\GenerativeAI.dll
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\Newtonsoft.Json.dll
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\RestSharp.dll
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Buffers.dll
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.ComponentModel.Annotations.dll
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Memory.dll
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.dll
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.dll
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Text.Json.dll
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.ValueTuple.dll
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\GenerativeAI.xml
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\Newtonsoft.Json.xml
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\RestSharp.xml
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Buffers.xml
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Memory.xml
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.xml
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.xml
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Text.Json.xml
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.ValueTuple.xml
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.AssemblyReference.cache
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.Form1.resources
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.Form2.resources
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.Form3.resources
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.Form4.resources
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.Properties.Resources.resources
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherF.C49A1D7B.Up2Date
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.exe
+D:\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.pdb
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\WeatherForecast.exe.config
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\WeatherForecast.exe
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\WeatherForecast.pdb
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\GenerativeAI.dll
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\Newtonsoft.Json.dll
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\RestSharp.dll
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Buffers.dll
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Memory.dll
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.dll
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.dll
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Text.Json.dll
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.ValueTuple.dll
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\GenerativeAI.xml
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\Newtonsoft.Json.xml
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\RestSharp.xml
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Buffers.xml
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Memory.xml
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.xml
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.xml
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Text.Json.xml
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\bin\Debug\System.ValueTuple.xml
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.AssemblyReference.cache
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.Form1.resources
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.Form2.resources
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.Form3.resources
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.Form4.resources
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.Properties.Resources.resources
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherF.C49A1D7B.Up2Date
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.exe
+D:\Study\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-V3updated\WeatherForecast-main\obj\Debug\WeatherForecast.pdb
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\WeatherForecast.exe.config
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\WeatherForecast.exe
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\WeatherForecast.pdb
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\GenerativeAI.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\RestSharp.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\System.Buffers.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\System.Memory.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\System.Text.Json.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\System.ValueTuple.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\GenerativeAI.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\RestSharp.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\System.Buffers.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\System.Memory.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\System.Text.Json.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\bin\Debug\System.ValueTuple.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.AssemblyReference.cache
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\obj\Debug\WeatherForecast.Form1.resources
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\obj\Debug\WeatherForecast.Form2.resources
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\obj\Debug\WeatherForecast.Form3.resources
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\obj\Debug\WeatherForecast.Form4.resources
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\obj\Debug\WeatherForecast.Properties.Resources.resources
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\obj\Debug\WeatherForecast.csproj.CopyComplete
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\obj\Debug\WeatherForecast.exe
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main\obj\Debug\WeatherForecast.pdb
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\obj\Debug\WeatherForecast.csproj.AssemblyReference.cache
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\obj\Debug\WeatherForecast.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\obj\Debug\WeatherForecast.Form1.resources
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\obj\Debug\WeatherForecast.Form2.resources
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\obj\Debug\WeatherForecast.Form3.resources
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\obj\Debug\WeatherForecast.Form4.resources
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\obj\Debug\WeatherForecast.Properties.Resources.resources
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\obj\Debug\WeatherForecast.exe
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\obj\Debug\WeatherForecast.pdb
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\WeatherForecast.exe.config
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\WeatherForecast.exe
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\WeatherForecast.pdb
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\GenerativeAI.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\RestSharp.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\System.Buffers.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\System.Memory.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\System.Text.Json.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\System.ValueTuple.dll
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\GenerativeAI.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\RestSharp.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\System.Buffers.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\System.Memory.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\System.Text.Json.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\bin\Debug\System.ValueTuple.xml
+C:\Users\Nguyen Manh Hung\Downloads\WeatherForecast-main1\obj\Debug\WeatherForecast.csproj.CopyComplete
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\WeatherForecast.exe.config
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\WeatherForecast.exe
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\WeatherForecast.pdb
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\GenerativeAI.dll
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\Newtonsoft.Json.dll
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\RestSharp.dll
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\System.Buffers.dll
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\System.Memory.dll
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\System.Numerics.Vectors.dll
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\System.Text.Encodings.Web.dll
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\System.Text.Json.dll
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\System.ValueTuple.dll
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\GenerativeAI.xml
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\Newtonsoft.Json.xml
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\RestSharp.xml
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\System.Buffers.xml
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\System.Memory.xml
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\System.Numerics.Vectors.xml
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\System.Text.Encodings.Web.xml
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\System.Text.Json.xml
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\bin\Debug\System.ValueTuple.xml
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\obj\Debug\WeatherForecast.csproj.AssemblyReference.cache
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\obj\Debug\WeatherForecast.Form1.resources
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\obj\Debug\WeatherForecast.Form2.resources
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\obj\Debug\WeatherForecast.Form3.resources
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\obj\Debug\WeatherForecast.Form4.resources
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\obj\Debug\WeatherForecast.Properties.Resources.resources
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\obj\Debug\WeatherF.C49A1D7B.Up2Date
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\obj\Debug\WeatherForecast.exe
+D:\Study\WeatherForecastFinalC\WeatherForecast-main1\obj\Debug\WeatherForecast.pdb
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\WeatherForecast.exe.config
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\WeatherForecast.exe
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\WeatherForecast.pdb
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\GenerativeAI.dll
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\RestSharp.dll
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\System.Buffers.dll
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\System.Memory.dll
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\System.Text.Json.dll
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\System.ValueTuple.dll
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\GenerativeAI.xml
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\RestSharp.xml
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\System.Buffers.xml
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\System.Memory.xml
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\System.Text.Json.xml
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\bin\Debug\System.ValueTuple.xml
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\obj\Debug\WeatherForecast.csproj.AssemblyReference.cache
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\obj\Debug\WeatherForecast.Form1.resources
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\obj\Debug\WeatherForecast.Form2.resources
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\obj\Debug\WeatherForecast.Form3.resources
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\obj\Debug\WeatherForecast.Form4.resources
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\obj\Debug\WeatherForecast.Properties.Resources.resources
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\obj\Debug\WeatherF.C49A1D7B.Up2Date
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\obj\Debug\WeatherForecast.exe
+C:\Users\sukie\OneDrive\Desktop\WeatherForecast-main1\obj\Debug\WeatherForecast.pdb
