@@ -1,4 +1,4 @@
-# WeatherForcastProject
+# Weather Forcast Project
 
 ## Source Code
 [Download the Source Code](https://drive.google.com/file/d/1DwqCol5334UTzWne0p6hK4BXc4Fm-s_I/view?usp=sharing)
